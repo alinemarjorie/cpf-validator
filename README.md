@@ -8,7 +8,7 @@ Esta biblioteca tem a funcionalidade de validar o número de CPF, para uso em ap
 ## Como utilizar:
 ```
   const { cpfValidator } = require("amf-cpf-validator");
-  console.log(cpfValidator("889.571.648-55)) 
+  console.log(cpfValidator("889.571.648-55"));
 ```
 
 ## Funcionalidades:
