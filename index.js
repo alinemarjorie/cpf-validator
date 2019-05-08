@@ -8,7 +8,7 @@ function validationDigit(cpf, digit) {
     return false;
   } 
   return true;   
-};
+}
 
 module.exports.cpfValidator = cpfString => {
   cpfString = cpfString.replace(/[^\d]+/g, '');
