@@ -35,5 +35,5 @@ function cpfValidator(cpf) {
 	return true;
 }
 
-cpfValidator('52998224725');
+module.exports.cardValidator = cardValidator;
 
