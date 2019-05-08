@@ -12,6 +12,5 @@ Esta biblioteca tem a funcionalidade de validar o número de CPF, para uso em ap
 ```
 
 ## Funcionalidades:
-Checa se um número de CPF é válido através do algoritmo.
- da receita
+Checa se um número de CPF é válido através do algoritmo da receita.
  

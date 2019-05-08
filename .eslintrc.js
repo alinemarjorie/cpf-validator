@@ -31,6 +31,5 @@ module.exports = {
             'always'
         ],
         'camelcase': 2,
-        'id-lenght': 2,
     }
 };

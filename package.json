@@ -1,13 +1,13 @@
 {
   "name": "amf-cpf-validator",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Biblioteca para validar CPF",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/nyc/bin/nyc.js ./node_modules/mocha/bin/mocha",
     "lint": "./node_modules/eslint/bin/eslint.js ."
   },
-  "author": "",
+  "author": "Aline Marjorie Farinha",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
